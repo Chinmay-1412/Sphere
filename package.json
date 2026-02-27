@@ -7,7 +7,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "engines": {
+  "node": "18.x"
   },
   "dependencies": {
     "@mediapipe/drawing_utils": "^0.3.1675466124",
